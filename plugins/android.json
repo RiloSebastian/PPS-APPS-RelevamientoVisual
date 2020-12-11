@@ -1,0 +1,44 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-camera": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "www.visualizadorKinetico.com"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "www.visualizadorKinetico.com"
+    },
+    "cordova-plugin-device-motion": {
+      "PACKAGE_NAME": "www.visualizadorKinetico.com"
+    },
+    "cordova-plugin-ionic-keyboard": {
+      "PACKAGE_NAME": "www.visualizadorKinetico.com"
+    },
+    "cordova-plugin-ionic-webview": {
+      "ANDROID_SUPPORT_ANNOTATIONS_VERSION": "27.+",
+      "PACKAGE_NAME": "www.visualizadorKinetico.com"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "www.visualizadorKinetico.com"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "www.visualizadorKinetico.com"
+    },
+    "cordova-plugin-telerik-imagepicker": {
+      "PACKAGE_NAME": "www.visualizadorKinetico.com"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "www.visualizadorKinetico.com"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "www.visualizadorKinetico.com"
+    }
+  },
+  "dependent_plugins": {}
+}
