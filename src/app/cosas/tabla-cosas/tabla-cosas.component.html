@@ -1,3 +1,3 @@
-<ion-list *ngFor="let foto of _fotos; let i = index">
+<ion-list *ngFor="let foto of _fotos; let i = index" style='--ion-background-color: var(--ion-color-fondo);'>
     <vista-previa-foto [foto]='foto' [usuario]='usuario'></vista-previa-foto>
 </ion-list>

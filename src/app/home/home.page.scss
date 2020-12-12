@@ -19,3 +19,22 @@
 	flex-flow: column;
 	justify-content: space-around;
 }
+
+.spinnerA {
+    z-index: 10;
+    position: absolute;
+    height: 200;
+    width: 200;
+    animation: spinner 1s ease-in-out infinite both;
+}
+
+@keyframes spinner {
+    0% {
+        -webkit-transform: rotate(0);
+        transform: rotate(0);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
